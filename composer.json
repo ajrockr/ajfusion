@@ -25,6 +25,8 @@
     "require-dev": {
         "symfony/http-kernel": "^7.2",
         "phpunit/phpunit": "^12.0",
-        "symfony/maker-bundle": "^1.62"
+        "symfony/maker-bundle": "^1.62",
+        "ramsey/uuid": "^4.7",
+        "ramsey/uuid-doctrine": "^2.1"
     }
 }
